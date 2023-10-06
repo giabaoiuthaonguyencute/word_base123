@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+jwt
+passlib
+python-jose
+bcrypt
+python-multipart
+PyJWT
